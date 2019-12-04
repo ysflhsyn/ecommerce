@@ -1,0 +1,10 @@
+[
+  {
+    "id": "validation.required",
+    "defaultMessage": "xananın doldurulması vacibdir."
+  },
+  {
+    "id": "signin.signin_button",
+    "defaultMessage": "Daxil ol"
+  }
+]

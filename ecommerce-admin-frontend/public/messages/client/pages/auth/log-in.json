@@ -1,0 +1,14 @@
+[
+  {
+    "id": "signin.placeholder.username",
+    "defaultMessage": "Username"
+  },
+  {
+    "id": "signin.placeholder.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "signin.signin_button",
+    "defaultMessage": "Log In"
+  }
+]

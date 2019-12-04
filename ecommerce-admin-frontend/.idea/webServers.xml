@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29080e3b-b837-4e09-ac0f-f1bca1c25d4b" name="sftpnginx" url="http://10.90.15.159">
+        <fileTransfer host="10.90.15.159" port="22" rootFolder="/usr/local/nginx" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
